@@ -1,0 +1,8 @@
+
+Sort_Files.egg-info
+files
+build
+.env
+__pycache__
+dist
+*.rar
